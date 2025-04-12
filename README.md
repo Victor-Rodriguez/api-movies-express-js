@@ -8,7 +8,7 @@
 ### Pasos para desplegar la API
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/api-movies-express-js.git
+    git clone https://github.com/Victor-Rodriguez/api-movies-express-js.git
     cd api-movies-express-js
     ```
 
